@@ -49,17 +49,11 @@ Essa melhoria auxilia na organização do fluxo de trabalho e na tomada de decis
 taskflow-python/
 
 ├── .github/workflows/
-
 ├── src/
-
 │ ├── task.py
-
 │ └── task_manager.py
-
 ├── test_task_manager.py
-
 ├── requirements.txt
-
 └── README.md
 
 ## Testes Automatizados
@@ -75,6 +69,10 @@ Cenários testados:
 ## Integração Contínua
 
 O projeto utiliza GitHub Actions para executar automaticamente os testes a cada atualização enviada ao repositório.
+
+## GitHub Actions
+
+Workflow configurado para executar os testes automaticamente a cada push e pull request.
 
 ## Como Executar
 
@@ -94,3 +92,4 @@ python -m pytest
 * GitHub
 * GitHub Actions
 * Kanban
+

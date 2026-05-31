@@ -92,6 +92,9 @@ python -m pytest
 * GitHub
 * GitHub Actions
 * Kanban
+<<<<<<< HEAD
 =======
 * Kanban
+=======
+>>>>>>> a87827c (docs: finalizar documentacao do projeto)
 
